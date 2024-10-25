@@ -1,0 +1,24 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore npm cache
+.npm
+
+# Ignore package-lock.json (unless you're using npm 7+)
+package-lock.json
+
+# Ignore OS metadata files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+dist/
+build/
